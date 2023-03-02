@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eusebiudrlink
+- 👋 Hi, I’m Sebi
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python,java and C#.
 - 📫 You can reach me at sebiant@yahoo.com
