@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eusebiudrlink
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Html,CSS,JavaScript
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python,java and C#.
 - 📫 You can reach me at sebiant@yahoo.com
 
 <!---
